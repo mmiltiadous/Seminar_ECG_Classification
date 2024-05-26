@@ -8,5 +8,5 @@ Ismail Fawaz, Hassan and Lucas, Benjamin and Forestier, Germain and Pelletier, C
 Data Mining and Knowledge Discovery
 ### Year
 2020
-### URL
+### Code
 https://github.com/hfawaz/InceptionTime
