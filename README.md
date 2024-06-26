@@ -1,4 +1,13 @@
-# Seminar_ECG_Classification
+This reposidory is accompanied by a report submitted for the course Seminar Advances in Deep Learning at Leiden University.
+
+# ECG_Classification
+Guidlines on how to run the code:
+## CNN
+
+## InceptioTime
+
+## TCGAN
+
 
 # References
 1. Hassan Ismail Fawaz, Benjamin Lucas, Germain Forestier, Charlotte Pelletier,
