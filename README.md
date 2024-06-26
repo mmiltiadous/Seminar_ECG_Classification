@@ -16,7 +16,7 @@ The code is placed in inception_time_folder.
 
 For dataset with other rhythm run:  python3 main.py InceptionTime
 
-For dataset without other rhythm, uncomment lines 180-230 and comment lines 128-178 in utils.py file and run:  <br>
+For dataset without other rhythm, uncomment lines 180-230 and comment lines 128-178 in utils.py file and run:  <br />
 python3 main.py InceptionTime
 
 The results for all the experiments mentioned in the report are in the results_inception folder
