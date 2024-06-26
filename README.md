@@ -5,7 +5,7 @@ Guidlines on how to run the code:
 
 ## CNN
 
-For dataset with other rhythm run:  python cnn_2.py
+For dataset with other rhythm run:  python cnn_2.py \\
 For dataset without other rhythm run:  python cnn_noother.py
 
 The results for all the experiments mentioned in the report are in the results_cnn folder
