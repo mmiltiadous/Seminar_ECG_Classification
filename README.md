@@ -2,9 +2,21 @@ This reposidory is accompanied by a report submitted for the course Seminar Adva
 
 # ECG_Classification
 Guidlines on how to run the code:
+
 ## CNN
 
+For dataset with other rhythm run:  python cnn_2.py
+For dataset without other rhythm run:  python cnn_noother.py
+
+The results for all the experiments mentioned in the report are in the results_cnn folder
+
 ## InceptionTime
+The code is placed in inception_time_folder.
+
+For dataset with other rhythm run:  python main.py InceptionTime
+For dataset without other rhythm, uncomment lines 180-230 and comment lines 128-178 in utils.py file and run:  python main.py InceptionTime
+
+The results for all the experiments mentioned in the report are in the results_inception folder
 
 ## TCGAN
 
