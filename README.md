@@ -4,7 +4,7 @@ This reposidory is accompanied by a report submitted for the course Seminar Adva
 Guidlines on how to run the code:
 ## CNN
 
-## InceptioTime
+## InceptionTime
 
 ## TCGAN
 
