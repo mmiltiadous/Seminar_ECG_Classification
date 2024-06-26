@@ -23,6 +23,8 @@ The results for all the experiments mentioned in the report are in the results_i
 
 ## TCGAN
 
+To run the TCGAN classifiers, run: python3 clf_imb_tcgan.py
+
 
 # References
 1. Hassan Ismail Fawaz, Benjamin Lucas, Germain Forestier, Charlotte Pelletier,
